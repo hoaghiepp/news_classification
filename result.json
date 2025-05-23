@@ -1,0 +1,1444 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "slug_name": "22int-uk-prisons",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Short of Prison Space, U.K. Looks to U.S. Model of Time Off for Good Conduct",
+      "abstract": "An official review commissioned by the British government calls for criminals to earn earlier release, and cites Texas as a particular example.",
+      "uri": "nyt://article/68271b7d-75e6-5273-815f-66dfebf11d53",
+      "url": "https://www.nytimes.com/2025/05/22/world/europe/prisons-britain-texas.html",
+      "byline": "By Lizzie Dearden",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-22T01:00:10-04:00",
+      "created_date": "2025-05-22T01:00:10-04:00",
+      "published_date": "2025-05-22T01:00:10-04:00",
+      "first_published_date": "2025-05-22T01:00:10-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": ["Prisons and Prisoners", "Sentences (Criminal)"],
+      "org_facet": ["Labour Party (Great Britain)"],
+      "per_facet": [],
+      "geo_facet": ["England", "Wales", "Great Britain"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22uk-prisons-1-bckm/22uk-prisons-1-bckm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Wandsworth prison in London, which a report found to be overcrowded and infested with vermin last year.",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22uk-prisons-1-bckm/22uk-prisons-1-bckm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Wandsworth prison in London, which a report found to be overcrowded and infested with vermin last year.",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22uk-prisons-1-bckm/22uk-prisons-1-bckm-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Wandsworth prison in London, which a report found to be overcrowded and infested with vermin last year.",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22uk-prisons-1-bckm/22uk-prisons-1-bckm-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Wandsworth prison in London, which a report found to be overcrowded and infested with vermin last year.",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "21vid-WestBank-diplomats",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Israeli Soldiers Fire at Diplomats in West Bank",
+      "abstract": "A group of Western diplomats were touring Jenin, in the Israeli-occupied West Bank, on Wednesday when Israeli soldiers fired at least seven shots to disperse the visiting officials.",
+      "uri": "nyt://video/7936793f-0ddc-59a8-88de-c6ee5814c162",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000010183816/israeli-soldiers-fire-at-diplomats-in-west-bank.html",
+      "byline": "By The New York Times",
+      "item_type": "Video",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T21:09:25-04:00",
+      "created_date": "2025-05-21T21:05:20-04:00",
+      "published_date": "2025-05-21T21:05:20-04:00",
+      "first_published_date": "2025-05-21T21:05:20-04:00",
+      "material_type_facet": "Video",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": ["Defense and Military Forces"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Israel", "Jenin (West Bank)"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-mediumThreeByTwo440.png",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-westbank-diplomats",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Israeli Soldiers Fire in Air to Disperse Western Diplomats in West Bank",
+      "abstract": "The event in Jenin, in the Israeli-occupied West Bank, came amid rising tensions between Israel and its foreign partners.",
+      "uri": "nyt://article/eff56347-7c8e-544f-83a0-ff6f7574267b",
+      "url": "https://www.nytimes.com/2025/05/21/world/middleeast/israel-warning-shots-west-bank.html",
+      "byline": "By Fatima AbdulKarim",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T21:12:48-04:00",
+      "created_date": "2025-05-21T14:39:16-04:00",
+      "published_date": "2025-05-21T14:39:16-04:00",
+      "first_published_date": "2025-05-21T14:39:16-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "International Relations",
+        "Palestinians",
+        "Diplomatic Service, Embassies and Consulates"
+      ],
+      "org_facet": ["European Union", "Palestinian Authority"],
+      "per_facet": [],
+      "geo_facet": ["Jenin (West Bank)", "West Bank", "Israel"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-mediumThreeByTwo440.png",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/middleeast/Jenin_diplomats_screenshot/Jenin_diplomats_screenshot-articleInline.png",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Anadolu Agency via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-Taiwan-Finland",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "He’s a Heavy Metal Musician, and Taiwan’s New Envoy to Finland",
+      "abstract": "Freddy Lim, the founder and lead singer of Chthonic, is well known in Finland, a heavy metal capital of the world.",
+      "uri": "nyt://article/1c6ea66f-3bf4-5c04-8880-d90f6139bfdd",
+      "url": "https://www.nytimes.com/2025/05/21/world/asia/taiwan-freddy-lim-envoy-finland.html",
+      "byline": "By Ephrat Livni",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-22T03:27:02-04:00",
+      "created_date": "2025-05-21T14:34:05-04:00",
+      "published_date": "2025-05-21T14:34:05-04:00",
+      "first_published_date": "2025-05-21T14:34:05-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Diplomatic Service, Embassies and Consulates",
+        "International Relations",
+        "Politics and Government",
+        "Appointments and Executive Changes",
+        "Demonstrations, Protests and Riots",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Chthonic (Music Group)",
+        "Amnesty International",
+        "Democratic Progressive Party (Taiwan)",
+        "New Power Party (Taiwan)",
+        "World Health Organization",
+        "United Nations"
+      ],
+      "per_facet": ["Lim, Freddy (1976- )", "Lai Ching-te"],
+      "geo_facet": ["Taiwan", "Finland", "China"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-Taiwan-Finland/21int-Taiwan-Finland-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Freddy Lim, who was appointed as Taiwan’s envoy to Finland on Monday, performing with his band, Chthonic, in Tokyo in 2019.",
+          "copyright": "Nicolas Datiche/LightRocket, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-Taiwan-Finland/21int-Taiwan-Finland-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Freddy Lim, who was appointed as Taiwan’s envoy to Finland on Monday, performing with his band, Chthonic, in Tokyo in 2019.",
+          "copyright": "Nicolas Datiche/LightRocket, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-Taiwan-Finland/21int-Taiwan-Finland-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Freddy Lim, who was appointed as Taiwan’s envoy to Finland on Monday, performing with his band, Chthonic, in Tokyo in 2019.",
+          "copyright": "Nicolas Datiche/LightRocket, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-Taiwan-Finland/21int-Taiwan-Finland-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Freddy Lim, who was appointed as Taiwan’s envoy to Finland on Monday, performing with his band, Chthonic, in Tokyo in 2019.",
+          "copyright": "Nicolas Datiche/LightRocket, via Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-germany-arrests",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "German Police Arrest Five Teenagers in Domestic Terrorism Raid",
+      "abstract": "The group planned and carried out arson attacks on buildings housing asylum seekers, authorities said, warning that far-right extremist organizations are increasingly attracting young people.",
+      "uri": "nyt://article/3f4d0707-4edd-54b1-bd65-351424187dff",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/germany-youth-far-right.html",
+      "byline": "By Lynsey Chutel and Christopher F. Schuetze",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T13:08:50-04:00",
+      "created_date": "2025-05-21T12:36:15-04:00",
+      "published_date": "2025-05-21T12:36:15-04:00",
+      "first_published_date": "2025-05-21T12:36:15-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Neo Nazi Groups",
+        "Terrorism",
+        "Arson"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Germany"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-germany-arrests/21int-germany-arrests-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This is a warning sign and shows that right-wing extremist terrorism knows no age,” Stefanie Hubig, Germany’s justice minister, said in a statement on social media.",
+          "copyright": "Sebastian Gollnow/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-germany-arrests/21int-germany-arrests-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This is a warning sign and shows that right-wing extremist terrorism knows no age,” Stefanie Hubig, Germany’s justice minister, said in a statement on social media.",
+          "copyright": "Sebastian Gollnow/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-germany-arrests/21int-germany-arrests-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This is a warning sign and shows that right-wing extremist terrorism knows no age,” Stefanie Hubig, Germany’s justice minister, said in a statement on social media.",
+          "copyright": "Sebastian Gollnow/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-germany-arrests/21int-germany-arrests-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“This is a warning sign and shows that right-wing extremist terrorism knows no age,” Stefanie Hubig, Germany’s justice minister, said in a statement on social media.",
+          "copyright": "Sebastian Gollnow/Picture Alliance, via Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-spain-shooting",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Gunmen Kill Former Ukrainian Politician in Spain",
+      "abstract": "Andriy Portnov was a senior aide to Ukraine’s former president Viktor F. Yanukovych, who was ousted in a 2014 uprising over his alignment with Moscow.",
+      "uri": "nyt://article/82cc9521-8f7d-5e66-aada-a88a249cdf62",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/andriy-portnov-spain-ukrainian.html",
+      "byline": "By Maria Varenikova and José Bautista",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T12:23:26-04:00",
+      "created_date": "2025-05-21T12:23:26-04:00",
+      "published_date": "2025-05-21T12:23:26-04:00",
+      "first_published_date": "2025-05-21T12:23:26-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": ["Yanukovych, Viktor F", "Zelensky, Volodymyr"],
+      "geo_facet": [
+        "Europe",
+        "Madrid (Spain)",
+        "Moscow (Russia)",
+        "Russia",
+        "Ukraine"
+      ],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-spain-shooting-fvpg/21int-spain-shooting-fvpg-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers securing the scene of a deadly shooting on Wednesday in Pozuelo de Alarcón, Spain, outside Madrid.",
+          "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-spain-shooting-fvpg/21int-spain-shooting-fvpg-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers securing the scene of a deadly shooting on Wednesday in Pozuelo de Alarcón, Spain, outside Madrid.",
+          "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-spain-shooting-fvpg/21int-spain-shooting-fvpg-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers securing the scene of a deadly shooting on Wednesday in Pozuelo de Alarcón, Spain, outside Madrid.",
+          "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-spain-shooting-fvpg/21int-spain-shooting-fvpg-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers securing the scene of a deadly shooting on Wednesday in Pozuelo de Alarcón, Spain, outside Madrid.",
+          "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-gaza-pope",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Pope Leo XIV Calls for Aid to Enter Gaza",
+      "abstract": "Calling the hunger crisis in the war-torn territory “heart-rending,” the pope used his first general audience to highlight the issue.",
+      "uri": "nyt://article/a0a707af-7bcc-559e-b897-d8e53b7d1680",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/pope-leo-gaza-israel-aid.html",
+      "byline": "By Elisabetta Povoledo",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T13:58:09-04:00",
+      "created_date": "2025-05-21T12:09:30-04:00",
+      "published_date": "2025-05-21T12:09:30-04:00",
+      "first_published_date": "2025-05-21T12:09:30-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": ["Popes", "Israel-Gaza War (2023- )", "Humanitarian Aid"],
+      "org_facet": ["Hamas", "Roman Catholic Church"],
+      "per_facet": ["Leo XIV"],
+      "geo_facet": ["Gaza Strip", "Israel"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/INT-GAZA-POPE-hqzg/INT-GAZA-POPE-hqzg-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children waiting for a meal on Wednesday at a charity kitchen for displaced people in Gaza City.",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/INT-GAZA-POPE-hqzg/INT-GAZA-POPE-hqzg-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children waiting for a meal on Wednesday at a charity kitchen for displaced people in Gaza City.",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/INT-GAZA-POPE-hqzg/INT-GAZA-POPE-hqzg-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children waiting for a meal on Wednesday at a charity kitchen for displaced people in Gaza City.",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/INT-GAZA-POPE-hqzg/INT-GAZA-POPE-hqzg-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Children waiting for a meal on Wednesday at a charity kitchen for displaced people in Gaza City.",
+          "copyright": "Saher Alghorra for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-india-militants",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "India’s Security Forces Kill Dozens in a Bid to Crush Leftist Rebels",
+      "abstract": "Military operations have intensified in recent weeks as the government has set a deadline of next year to defeat a decades-old Maoist insurgency.",
+      "uri": "nyt://article/109980d6-c35c-5919-b43c-4346509d27cf",
+      "url": "https://www.nytimes.com/2025/05/21/world/asia/india-maoists-naxalites.html",
+      "byline": "By Pragati K.B.",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T15:41:52-04:00",
+      "created_date": "2025-05-21T11:47:52-04:00",
+      "published_date": "2025-05-21T11:47:52-04:00",
+      "first_published_date": "2025-05-21T11:47:52-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Defense and Military Forces",
+        "Minorities",
+        "Communism (Theory and Philosophy)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["India", "Chhattisgarh (India)"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-india-militants-lfjm/21int-india-militants-lfjm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the District Reserve Guard at their base in Dantewada in Chhattisgarh state in India. The country’s security forces have recently escalated their campaign to eliminate leftist militants.",
+          "copyright": "Jalees Andrabi/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-india-militants-lfjm/21int-india-militants-lfjm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the District Reserve Guard at their base in Dantewada in Chhattisgarh state in India. The country’s security forces have recently escalated their campaign to eliminate leftist militants.",
+          "copyright": "Jalees Andrabi/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-india-militants-lfjm/21int-india-militants-lfjm-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the District Reserve Guard at their base in Dantewada in Chhattisgarh state in India. The country’s security forces have recently escalated their campaign to eliminate leftist militants.",
+          "copyright": "Jalees Andrabi/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-india-militants-lfjm/21int-india-militants-lfjm-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the District Reserve Guard at their base in Dantewada in Chhattisgarh state in India. The country’s security forces have recently escalated their campaign to eliminate leftist militants.",
+          "copyright": "Jalees Andrabi/Agence France-Presse — Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-uk-chris-brown",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Chris Brown Released on $6 Million Bail by London Court",
+      "abstract": "The R&B singer was charged last week with grievous bodily harm over a 2023 incident in England. His release from custody means he can proceed with a world tour.",
+      "uri": "nyt://article/446f0bc7-8c42-5e84-90a5-676a37c88162",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/chris-brown-bail-court-london.html",
+      "byline": "By Lizzie Dearden",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T10:01:20-04:00",
+      "created_date": "2025-05-21T10:01:20-04:00",
+      "published_date": "2025-05-21T10:01:20-04:00",
+      "first_published_date": "2025-05-21T10:01:20-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Assaults",
+        "Rhythm and Blues (Music)",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": ["Scotland Yard (Metropolitan Police Service)"],
+      "per_facet": ["Brown, Chris (1989- )"],
+      "geo_facet": [
+        "England",
+        "Europe",
+        "Great Britain",
+        "London (England)",
+        "Manchester (England)"
+      ],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-uk-chris-brown/21int-uk-chris-brown-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Brown in Paris last year.",
+          "copyright": "Christian Vierig/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-uk-chris-brown/21int-uk-chris-brown-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Brown in Paris last year.",
+          "copyright": "Christian Vierig/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-uk-chris-brown/21int-uk-chris-brown-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Brown in Paris last year.",
+          "copyright": "Christian Vierig/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-uk-chris-brown/21int-uk-chris-brown-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Brown in Paris last year.",
+          "copyright": "Christian Vierig/Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21xp-rfe",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "E.U. Offers Emergency Funding for Radio Free Europe After Trump Cuts",
+      "abstract": "The European Union said it would provide short-term financing for Radio Free Europe, but the amount falls short of what the news outlet says it needs to stay afloat.",
+      "uri": "nyt://article/1c5c79fe-406c-5d59-b6ab-77c80f15ae71",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/radio-free-europe-funding-eu.html",
+      "byline": "By Jenny Gross",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T12:52:29-04:00",
+      "created_date": "2025-05-21T10:00:38-04:00",
+      "published_date": "2025-05-21T10:00:38-04:00",
+      "first_published_date": "2025-05-21T10:00:38-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Finances",
+        "United States Politics and Government",
+        "Federal Aid (US)",
+        "Radio",
+        "Federal Budget (US)",
+        "News and News Media"
+      ],
+      "org_facet": [],
+      "per_facet": ["Musk, Elon", "Trump, Donald J"],
+      "geo_facet": [
+        "Europe",
+        "USSR (Former Soviet Union)",
+        "Caucasus (Russia)",
+        "United States"
+      ],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21xp-rfe-jvqp/21xp-rfe-jvqp-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The headquarters of Radio Free Europe/Radio Liberty in Prague, Czech Republic, earlier this year. President Trump has ordered the dismantling of the news outlet’s parent company.",
+          "copyright": "Michal Cizek/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21xp-rfe-jvqp/21xp-rfe-jvqp-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The headquarters of Radio Free Europe/Radio Liberty in Prague, Czech Republic, earlier this year. President Trump has ordered the dismantling of the news outlet’s parent company.",
+          "copyright": "Michal Cizek/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21xp-rfe-jvqp/21xp-rfe-jvqp-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The headquarters of Radio Free Europe/Radio Liberty in Prague, Czech Republic, earlier this year. President Trump has ordered the dismantling of the news outlet’s parent company.",
+          "copyright": "Michal Cizek/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21xp-rfe-jvqp/21xp-rfe-jvqp-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The headquarters of Radio Free Europe/Radio Liberty in Prague, Czech Republic, earlier this year. President Trump has ordered the dismantling of the news outlet’s parent company.",
+          "copyright": "Michal Cizek/Agence France-Presse — Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "21pakistan-bombing",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "School Bus Bombing in Pakistan Kills at Least 6, Including 4 Students",
+      "abstract": "The vehicle was carrying dozens of children to a military-run school in southwestern Balochistan Province, a region long roiled by rebel activity.",
+      "uri": "nyt://article/101c9ab1-45ca-5c0e-80a4-71bd3edbe78d",
+      "url": "https://www.nytimes.com/2025/05/21/world/asia/pakistan-school-bus-bombing.html",
+      "byline": "By Zia ur-Rehman",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T10:18:29-04:00",
+      "created_date": "2025-05-21T08:00:16-04:00",
+      "published_date": "2025-05-21T08:00:16-04:00",
+      "first_published_date": "2025-05-21T08:00:16-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": ["Terrorism", "Bombs and Explosives"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Baluchistan (Pakistan)", "Pakistan"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pakistan-bombing-vqjm/21pakistan-bombing-vqjm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Debris at the site of the blast on the outskirts of the Khuzdar district in Balochistan Province, Pakistan, on Wednesday.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pakistan-bombing-vqjm/21pakistan-bombing-vqjm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Debris at the site of the blast on the outskirts of the Khuzdar district in Balochistan Province, Pakistan, on Wednesday.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pakistan-bombing-vqjm/21pakistan-bombing-vqjm-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Debris at the site of the blast on the outskirts of the Khuzdar district in Balochistan Province, Pakistan, on Wednesday.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pakistan-bombing-vqjm/21pakistan-bombing-vqjm-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Debris at the site of the blast on the outskirts of the Khuzdar district in Balochistan Province, Pakistan, on Wednesday.",
+          "copyright": "Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-hongkong-media",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Hong Kong’s Beleaguered Journalists Say Their Taxes Are Now Under Scrutiny",
+      "abstract": "Several news outlets have been unreasonably subjected to tax investigations, according to the city’s journalists’ association, adding to pressures on press freedom.",
+      "uri": "nyt://article/b87a701f-ff0e-5706-8bc3-9ab5675d4358",
+      "url": "https://www.nytimes.com/2025/05/21/world/asia/hong-kong-media-tax-harassment.html",
+      "byline": "By Tiffany May",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T10:10:34-04:00",
+      "created_date": "2025-05-21T07:55:29-04:00",
+      "published_date": "2025-05-21T07:55:29-04:00",
+      "first_published_date": "2025-05-21T07:55:29-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "News and News Media",
+        "Taxation",
+        "Freedom of the Press",
+        "Politics and Government",
+        "Censorship"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Hong Kong"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-hongkong-media-ktpm/21int-hongkong-media-ktpm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Journalists waiting outside a Hong Kong court where last year two editors were found guilty of conspiracy to publish seditious materials.",
+          "copyright": "Bertha Wang/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-hongkong-media-ktpm/21int-hongkong-media-ktpm-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Journalists waiting outside a Hong Kong court where last year two editors were found guilty of conspiracy to publish seditious materials.",
+          "copyright": "Bertha Wang/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-hongkong-media-ktpm/21int-hongkong-media-ktpm-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Journalists waiting outside a Hong Kong court where last year two editors were found guilty of conspiracy to publish seditious materials.",
+          "copyright": "Bertha Wang/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-hongkong-media-ktpm/21int-hongkong-media-ktpm-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Journalists waiting outside a Hong Kong court where last year two editors were found guilty of conspiracy to publish seditious materials.",
+          "copyright": "Bertha Wang/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-russia-putin",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Putin Visits Kursk for First Time Since Russia Drove Out Ukrainian Forces",
+      "abstract": "The Russian leader traveled to the region in the west of the country where a surprise incursion last year embarrassed Moscow.",
+      "uri": "nyt://article/600cfbf0-0b08-5988-b4c4-e0cf6c7f14f2",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/russia-putin-kursk.html",
+      "byline": "By Anatoly Kurmanaev and Ivan Nechepurenko",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T11:50:58-04:00",
+      "created_date": "2025-05-21T07:03:41-04:00",
+      "published_date": "2025-05-21T07:03:41-04:00",
+      "first_published_date": "2025-05-21T07:03:41-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [],
+      "per_facet": ["Putin, Vladimir V"],
+      "geo_facet": ["Russia", "Ukraine", "Kursk (Russia)"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-russia-putin-mlpv/21int-russia-putin-mlpv-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image released by the Kremlin on Wednesday showed President Vladimir V. Putin of Russia visiting a nuclear power plant under construction in the Kursk region of the country.",
+          "copyright": "Kremlin.Ru, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-russia-putin-mlpv/21int-russia-putin-mlpv-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image released by the Kremlin on Wednesday showed President Vladimir V. Putin of Russia visiting a nuclear power plant under construction in the Kursk region of the country.",
+          "copyright": "Kremlin.Ru, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-russia-putin-mlpv/21int-russia-putin-mlpv-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image released by the Kremlin on Wednesday showed President Vladimir V. Putin of Russia visiting a nuclear power plant under construction in the Kursk region of the country.",
+          "copyright": "Kremlin.Ru, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-russia-putin-mlpv/21int-russia-putin-mlpv-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image released by the Kremlin on Wednesday showed President Vladimir V. Putin of Russia visiting a nuclear power plant under construction in the Kursk region of the country.",
+          "copyright": "Kremlin.Ru, via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-gaza-aid",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Israel Said It Eased Its Blockade, But Gazans Are Still Waiting for Food",
+      "abstract": "Three days after Israel said it would relax its blockade of humanitarian aid to Gaza, little, if any, of the urgently needed food, fuel and medicine appeared to have reached Palestinians.",
+      "uri": "nyt://article/fb3a3460-b58e-5522-907a-8ddd03ed41be",
+      "url": "https://www.nytimes.com/2025/05/21/world/middleeast/israel-gaza-blockade-aid.html",
+      "byline": "By Aaron Boxerman, Bilal Shbair and Iyad Abuheweila",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T14:29:51-04:00",
+      "created_date": "2025-05-21T06:12:03-04:00",
+      "published_date": "2025-05-21T06:12:03-04:00",
+      "first_published_date": "2025-05-21T06:12:03-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Israel-Gaza War (2023- )",
+        "Food",
+        "Palestinians",
+        "Humanitarian Aid",
+        "Food Insecurity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Gaza Strip"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-gaza-aid-01-hvcw/21int-gaza-aid-01-hvcw-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Displaced people at a charity food kitchen in Gaza City on Wednesday. ",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-gaza-aid-01-hvcw/21int-gaza-aid-01-hvcw-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Displaced people at a charity food kitchen in Gaza City on Wednesday. ",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-gaza-aid-01-hvcw/21int-gaza-aid-01-hvcw-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Displaced people at a charity food kitchen in Gaza City on Wednesday. ",
+          "copyright": "Saher Alghorra for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-gaza-aid-01-hvcw/21int-gaza-aid-01-hvcw-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Displaced people at a charity food kitchen in Gaza City on Wednesday. ",
+          "copyright": "Saher Alghorra for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-iran-azerbaijan",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "Iran Executes Man Over Deadly 2023 Attack on Azerbaijan Embassy",
+      "abstract": "The killing of the embassy’s head of security strained an already tense relationship between the neighboring countries.",
+      "uri": "nyt://article/94a60ac4-e40a-550b-8f92-9f2c95ec234d",
+      "url": "https://www.nytimes.com/2025/05/21/world/middleeast/iran-azerbaijan-embassy-attack-execution.html",
+      "byline": "By Leily Nikounazar and Qasim Nauman",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T10:49:17-04:00",
+      "created_date": "2025-05-21T05:38:22-04:00",
+      "published_date": "2025-05-21T05:38:22-04:00",
+      "first_published_date": "2025-05-21T05:38:22-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "International Relations",
+        "Capital Punishment",
+        "Diplomatic Service, Embassies and Consulates",
+        "Decisions and Verdicts"
+      ],
+      "org_facet": [],
+      "per_facet": ["Pezeshkian, Masoud", "Aliyev, Ilham H"],
+      "geo_facet": ["Azerbaijan", "Iran"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-iran-azerbaijan-kvgw/21int-iran-azerbaijan-kvgw-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers outside the Azerbaijani Embassy in Tehran in 2023, after a man stormed the building and killed the head of security.",
+          "copyright": "Vahid Salemi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-iran-azerbaijan-kvgw/21int-iran-azerbaijan-kvgw-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers outside the Azerbaijani Embassy in Tehran in 2023, after a man stormed the building and killed the head of security.",
+          "copyright": "Vahid Salemi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-iran-azerbaijan-kvgw/21int-iran-azerbaijan-kvgw-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers outside the Azerbaijani Embassy in Tehran in 2023, after a man stormed the building and killed the head of security.",
+          "copyright": "Vahid Salemi/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-iran-azerbaijan-kvgw/21int-iran-azerbaijan-kvgw-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police officers outside the Azerbaijani Embassy in Tehran in 2023, after a man stormed the building and killed the head of security.",
+          "copyright": "Vahid Salemi/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-russia-deepcover-PT",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "A Fábrica de Espiões",
+      "abstract": "A inteligência russa transformou o Brasil em uma linha de montagem de espiões. Mas policiais federais brasileiros trabalham, discretamente, para desmontá-la.",
+      "uri": "nyt://article/5bc7f73b-88e8-5ce0-ba3f-271500f6525d",
+      "url": "https://www.nytimes.com/pt/2025/05/21/world/europe/a-fabrica-de-espioes.html",
+      "byline": "By Michael Schwirtz, Jane Bradley, Lucy Jones and Dado Galdieri",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T05:31:56-04:00",
+      "created_date": "2025-05-21T05:03:20-04:00",
+      "published_date": "2025-05-21T05:03:20-04:00",
+      "first_published_date": "2025-05-21T05:03:20-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Espionage and Intelligence Services",
+        "Police",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": ["Foreign Intelligence Service (Russia)"],
+      "per_facet": ["Putin, Vladimir V"],
+      "geo_facet": [
+        "Russia",
+        "Brasilia (Brazil)",
+        "Rio de Janeiro (Brazil)",
+        "Moscow (Russia)"
+      ],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-russia-deepcover-grid-port/21int-russia-deepcover-grid-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seis espiões russos, no sentido horário, a partir do canto superior esquerdo: Yekaterina Leonidovna Danilova, Vladimir Aleksandrovich Danilov, Olga Igorevna Tyutereva, Aleksandr Andreyevich Utekhin, Irina Alekseyevna Antonova e Roman Olegovich Koval.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-russia-deepcover-grid-port/21int-russia-deepcover-grid-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seis espiões russos, no sentido horário, a partir do canto superior esquerdo: Yekaterina Leonidovna Danilova, Vladimir Aleksandrovich Danilov, Olga Igorevna Tyutereva, Aleksandr Andreyevich Utekhin, Irina Alekseyevna Antonova e Roman Olegovich Koval.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-russia-deepcover-grid-port/21int-russia-deepcover-grid-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seis espiões russos, no sentido horário, a partir do canto superior esquerdo: Yekaterina Leonidovna Danilova, Vladimir Aleksandrovich Danilov, Olga Igorevna Tyutereva, Aleksandr Andreyevich Utekhin, Irina Alekseyevna Antonova e Roman Olegovich Koval.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21int-russia-deepcover-grid-port/21int-russia-deepcover-grid-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Seis espiões russos, no sentido horário, a partir do canto superior esquerdo: Yekaterina Leonidovna Danilova, Vladimir Aleksandrovich Danilov, Olga Igorevna Tyutereva, Aleksandr Andreyevich Utekhin, Irina Alekseyevna Antonova e Roman Olegovich Koval.",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-russia-deepcover-texts",
+      "section": "World",
+      "subsection": "Europe",
+      "title": "Text Messages Between Russian Spies, Annotated",
+      "abstract": "The messages offer a glimpse at life deep undercover. Our correspondents break down four revealing exchanges.",
+      "uri": "nyt://article/9002710e-a16d-5cee-afdb-0028111cc75b",
+      "url": "https://www.nytimes.com/2025/05/21/world/europe/text-messages-between-russian-spies-annotated.html",
+      "byline": "By Michael Schwirtz and Jane Bradley",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T10:58:34-04:00",
+      "created_date": "2025-05-21T05:01:38-04:00",
+      "published_date": "2025-05-21T05:01:38-04:00",
+      "first_published_date": "2025-05-21T05:01:38-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Text Messaging",
+        "Espionage and Intelligence Services",
+        "International Relations"
+      ],
+      "org_facet": ["Foreign Intelligence Service (Russia)"],
+      "per_facet": [],
+      "geo_facet": ["Brazil", "Russia"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21spies-text-promo/21spies-text-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21spies-text-promo/21spies-text-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21spies-text-promo/21spies-text-promo-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/world/21spies-text-promo/21spies-text-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 87,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-yemen-humanitarian-analysis",
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "When the U.S. and Israel Bomb the Houthis, Civilians Pay the Highest Price",
+      "abstract": "Military strikes in Yemen and sanctions targeting the Iran-backed militia have compounded a humanitarian crisis in the poorest country in the Middle East, officials say.",
+      "uri": "nyt://article/d615bd04-4fbb-54c2-bd72-ba50d799d590",
+      "url": "https://www.nytimes.com/2025/05/21/world/middleeast/houthi-militants-civilians-us-israel.html",
+      "byline": "By Ismaeel Naar and Saeed Al-Batati",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T11:15:33-04:00",
+      "created_date": "2025-05-21T05:00:43-04:00",
+      "published_date": "2025-05-21T05:00:43-04:00",
+      "first_published_date": "2025-05-21T05:00:43-04:00",
+      "material_type_facet": "News Analysis",
+      "kicker": "News Analysis",
+      "subheadline": "",
+      "des_facet": [
+        "War and Armed Conflicts",
+        "Civilian Casualties",
+        "Israel-Gaza War (2023- )",
+        "Humanitarian Aid",
+        "International Relations",
+        "Defense and Military Forces",
+        "United States International Relations",
+        "Malnutrition"
+      ],
+      "org_facet": ["Houthis"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [
+        "Yemen",
+        "Red Sea",
+        "Israel",
+        "Middle East",
+        "United States"
+      ],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/00int-yemen-humanitarian01-photo-pmwl/00int-yemen-humanitarian01-photo-pmwl-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A building in Sana, Yemen, damaged by U.S. airstrikes in April. Aid agencies say that the bombing campaigns have caused more harm to civilians than the Houthis. ",
+          "copyright": "Khaled Abdullah/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/00int-yemen-humanitarian01-photo-pmwl/00int-yemen-humanitarian01-photo-pmwl-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A building in Sana, Yemen, damaged by U.S. airstrikes in April. Aid agencies say that the bombing campaigns have caused more harm to civilians than the Houthis. ",
+          "copyright": "Khaled Abdullah/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/00int-yemen-humanitarian01-photo-pmwl/00int-yemen-humanitarian01-photo-pmwl-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A building in Sana, Yemen, damaged by U.S. airstrikes in April. Aid agencies say that the bombing campaigns have caused more harm to civilians than the Houthis. ",
+          "copyright": "Khaled Abdullah/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/00int-yemen-humanitarian01-photo-pmwl/00int-yemen-humanitarian01-photo-pmwl-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A building in Sana, Yemen, damaged by U.S. airstrikes in April. Aid agencies say that the bombing campaigns have caused more harm to civilians than the Houthis. ",
+          "copyright": "Khaled Abdullah/Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-russia-deepcover",
+      "section": "World",
+      "subsection": "Americas",
+      "title": "The Spy Factory",
+      "abstract": "Russia’s intelligence services turned Brazil into an assembly line for deep-cover operatives. A team of federal agents from the South American country has been quietly dismantling it.",
+      "uri": "nyt://article/d91efd09-5b4f-5478-b113-30f25a17a233",
+      "url": "https://www.nytimes.com/2025/05/21/world/americas/russia-brazil-spies-deep-cover.html",
+      "byline": "By Michael Schwirtz, Jane Bradley, Lucy Jones and Dado Galdieri",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T17:42:20-04:00",
+      "created_date": "2025-05-21T05:00:36-04:00",
+      "published_date": "2025-05-21T05:00:36-04:00",
+      "first_published_date": "2025-05-21T05:00:36-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Espionage and Intelligence Services",
+        "Russian Invasion of Ukraine (2022)",
+        "Russian Illegals Program (2010)"
+      ],
+      "org_facet": [
+        "Interpol (International Criminal Police Organization)",
+        "Central Intelligence Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": ["Brazil", "Moscow (Russia)"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/20/world/deepcover-static/deepcover-static-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Jones"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/20/world/deepcover-static/deepcover-static-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Jones"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/20/world/deepcover-static/deepcover-static-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Jones"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/20/world/deepcover-static/deepcover-static-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Jones"
+        }
+      ]
+    },
+    {
+      "slug_name": "21int-japan-rice",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Japanese Farm Minister Resigns After Saying He’d Never Bought Rice",
+      "abstract": "The remark came in the midst of a rice shortage that has infuriated voters. “Frankly, my supporters give me quite a lot of rice,” said the minister, Taku Eto.",
+      "uri": "nyt://article/d566b780-1926-5a5f-96fb-dd7355f892b0",
+      "url": "https://www.nytimes.com/2025/05/21/world/asia/japan-rice-minister-resigns.html",
+      "byline": "By Martin Fackler",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2025-05-21T02:19:08-04:00",
+      "created_date": "2025-05-21T02:19:08-04:00",
+      "published_date": "2025-05-21T02:19:08-04:00",
+      "first_published_date": "2025-05-21T02:19:08-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Politics and Government",
+        "Rice",
+        "Shortages",
+        "Prices (Fares, Fees and Rates)",
+        "Agriculture and Farming",
+        "Elections"
+      ],
+      "org_facet": [],
+      "per_facet": ["Ishiba, Shigeru"],
+      "geo_facet": ["Japan"],
+      "related_urls": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-japan-rice-qztp/21int-japan-rice-qztp-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taku Eto, Japan’s agriculture minister, after meeting with Prime Minister Shigeru Ishiba in Tokyo on Monday. Mr. Eto’s remark about rice created a furor ahead of a national election in July.",
+          "copyright": "Kyodo, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-japan-rice-qztp/21int-japan-rice-qztp-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taku Eto, Japan’s agriculture minister, after meeting with Prime Minister Shigeru Ishiba in Tokyo on Monday. Mr. Eto’s remark about rice created a furor ahead of a national election in July.",
+          "copyright": "Kyodo, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-japan-rice-qztp/21int-japan-rice-qztp-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taku Eto, Japan’s agriculture minister, after meeting with Prime Minister Shigeru Ishiba in Tokyo on Monday. Mr. Eto’s remark about rice created a furor ahead of a national election in July.",
+          "copyright": "Kyodo, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21int-japan-rice-qztp/21int-japan-rice-qztp-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taku Eto, Japan’s agriculture minister, after meeting with Prime Minister Shigeru Ishiba in Tokyo on Monday. Mr. Eto’s remark about rice created a furor ahead of a national election in July.",
+          "copyright": "Kyodo, via Reuters"
+        }
+      ]
+    }
+  ]
+}
